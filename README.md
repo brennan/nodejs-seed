@@ -7,12 +7,13 @@ This is a seed repo for anyone interested in building or experimenting with a No
 1. Twitter Bootstrap
 2. jQuery
 3. Twitter Bootstrap JS
-4. Custom JS
-5. Twitter Bootstrap CSS
-6. Custom CSS
-7. Node.js
-8. Express
-9. Body Parser
+4. Underscore JS
+5. Custom JS
+6. Twitter Bootstrap CSS
+7. Custom CSS
+8. Node.js
+9. Express
+10. Body Parser
 
 ##If you're not already set up to play around with a Node server, you may have to take a few initial steps:
 

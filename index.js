@@ -1,6 +1,7 @@
 var express = require('express'),
     app = express();
     bodyParser = require('body-parser');
+    _ = require("underscore");
 
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static(__dirname + '/public'));
