@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-seed",
+  "version": "1.0.0",
+  "description": "A seed project for Node.js server projects; feel free to download and share this material",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgamwell/nodejs-seed.git"
+  },
+  "author": "Brennan Gamwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgamwell/nodejs-seed/issues"
+  },
+  "homepage": "https://github.com/bgamwell/nodejs-seed",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
