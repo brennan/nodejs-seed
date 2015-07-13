@@ -14,6 +14,7 @@ This is a seed repo for anyone interested in building or experimenting with a No
 8. Node.js
 9. Express
 10. Body Parser
+11. MongoDB
 
 ##If you're not already set up to play around with a Node server, you may have to take a few initial steps:
 
@@ -49,4 +50,24 @@ This is a seed repo for anyone interested in building or experimenting with a No
 
   `npm install -g nodemon`
 
-  * Now, you're ready to get started!!!
+  3. Finally, to access this repo's database functionality, make sure you have MongoDB installed on your computer:
+
+   * Update your brew packages using from the Command Line:
+
+   `brew update`
+
+   * Install MongoDB from the Command Line:
+
+   `brew install mongodb`
+
+   * Create a directory for MongoDB to save data:
+
+   `sudo mkdir -p /data/db`
+
+   * Ensure you have permission to read and write from this directory:
+
+   `sudo chown -R $USER /data/db`
+
+   * You can start your server with the **mongod** command, and begin interacting with it using the **mongo** command. Note that you will need to open multiple tabs in your Terminal to run Node and Mongo servers at the same time.
+
+  4. Now, you're ready to get started!!!
