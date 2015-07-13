@@ -49,4 +49,4 @@ This is a seed repo for anyone interested in building or experimenting with a No
 
   `npm install -g nodemon`
 
-  * Now, you're ready to get started!
+  * Now, you're ready to get started!!!
