@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bgamwell/nodejs-seed",
   "dependencies": {
-    "express": "^4.13.1"
+    "express": "^4.13.1",
+    "mongoose": "^4.0.7"
   }
 }
